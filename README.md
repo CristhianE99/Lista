@@ -1,4 +1,4 @@
-# Lista
+
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PrOYyU1.png" tvg-country="CR" tvg-url="" group-title="",Anexion TV
